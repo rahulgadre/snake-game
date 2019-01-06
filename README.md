@@ -39,3 +39,5 @@ Change the host port to any other port as per your requirement.
 # Verifying results
 Once the container is up and running, open a web browser and type in either container_ip/index.html or localhost/index.html 
 and check the results. Click on the start button to start the snake game.
+
+Note: The code files used in the repo were taken from an AWS twitch session about hosting a static website.
