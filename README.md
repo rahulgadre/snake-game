@@ -32,7 +32,6 @@ Start a container using an image that's recently created.
 
 command: sudo docker run -d -p 80:80 --name snake snake-game
 --
-. tells the command to look for the dockerfile in this location. 
 port 80 has been used on the host and also on the container for the app to run. 
 Change the host port to any other port as per your requirement.
 
